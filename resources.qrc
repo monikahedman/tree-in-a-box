@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/shaders">
+	<file alias="leaf.frag">shaders/leaf/leaf.frag</file>
+        <file alias="default.frag">shaders/shader.frag</file>
+        <file alias="default.vert">shaders/shader.vert</file>
+        <file alias="rainupdate.frag">shaders/rainUpdate/rainupdate.frag</file>
+        <file alias="rainupdate.vert">shaders/rainUpdate/rainupdate.vert</file>
+        <file alias="raindraw.frag">shaders/rainDraw/raindraw.frag</file>
+        <file alias="raindraw.vert">shaders/rainDraw/raindraw.vert</file>
+	    <file alias="window.frag">shaders/window/window.frag</file>
+        <file alias="window.vert">shaders/window/window.vert</file>
+        <file alias="puddle.frag">shaders/puddle/puddle.frag</file>
+        <file alias="puddle.vert">shaders/puddle/puddle.vert</file>
+        <file alias="deferred.vert">shaders/deferred/deferred.vert</file>
+        <file alias="deferred.frag">shaders/deferred/deferred.frag</file>
+        <file alias="firstPass.vert">shaders/deferred/firstPass.vert</file>
+        <file alias="firstPass.frag">shaders/deferred/firstPass.frag</file>
+        <file alias="wireframe.frag">shaders/wireframe/wireframe.frag</file>
+        <file alias="wireframe.vert">shaders/wireframe/wireframe.vert</file>
+        <file alias="fullscreenquad.vert">shaders/fullscreenquad/fullscreenquad.vert</file>
+        <file alias="fullscreenquad.frag">shaders/fullscreenquad/fullscreenquad.frag</file>
+        <file alias="normals.frag">shaders/normals/normals.frag</file>
+        <file alias="normals.gsh">shaders/normals/normals.gsh</file>
+        <file alias="normals.vert">shaders/normals/normals.vert</file>
+        <file alias="normalsArrow.frag">shaders/normals/normalsArrow.frag</file>
+        <file alias="normalsArrow.gsh">shaders/normals/normalsArrow.gsh</file>
+        <file alias="normalsArrow.vert">shaders/normals/normalsArrow.vert</file>
+    </qresource>
+    <qresource prefix="/textures">
+        <file alias="grass.jpg">textures/grass.jpg</file>
+        <file alias="bark.jpg">textures/bark.jpg</file>
+    </qresource>
+</RCC>
